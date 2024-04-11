@@ -1,0 +1,8 @@
+documents/code
+mkdir zeng0057_Final_Project
+ls
+zeng0057_Final_Project
+touch T1Q1.txt
+nano T1Q1.txt
+
+alias FinalProject='cd ~/Documents/code/zeng0057_Final_Project'
